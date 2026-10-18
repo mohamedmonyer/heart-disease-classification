@@ -36,7 +36,7 @@ The goal is to practice data preparation, model training, and evaluation using P
 ## Project Files
 
 - `heart_disease_classification.ipynb`: Data exploration, training, and evaluation.
-- `heart.csv`: Dataset used in the project.
+`heart_disease_data.csv`: Dataset used in the project.
 - `heart_disease_model.joblib`: Saved trained model pipeline.
 
 ## Disclaimer
