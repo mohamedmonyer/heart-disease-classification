@@ -7,6 +7,9 @@ An educational Machine Learning project that uses Logistic Regression to classif
 ## 🚀 Live Demo
 
 **Try the application:** [Heart Disease Classification App](https://heart-disease-classification-9mre5jwjbhstri7xg2tejf.streamlit.app/)
+## 🖥️ Application Preview
+
+![Heart Disease Classification App](Screenshot%202026-10-18%20153332.png)
 
 ## 🎯 Project Objectives
 
